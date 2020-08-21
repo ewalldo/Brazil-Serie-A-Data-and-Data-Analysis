@@ -2,6 +2,8 @@
 Repository to hold the data for the Brazilian soccer championship "Serie A" and some data analysis on it
 
 ### Under construction ###
+Match data available: until 4rd round
+Player data available: 1st round
 
 Notes to Match Report:  
 Year     = League year  
@@ -67,3 +69,5 @@ Int      = Number of interceptions
 OG       = Number of own goals  
 
 Attributes with ＊ are used only for goalkeepers
+
+If you spot a mistake, please don't hesitate to open an issue or contact me at evaldo.lborba(at)gmail.com
