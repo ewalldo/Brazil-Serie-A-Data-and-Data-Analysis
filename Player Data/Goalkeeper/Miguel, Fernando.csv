@@ -1,0 +1,9 @@
+Name,#,Nation,Team,Year,Matchday,Team 1,Team 2,Min,SoTA,GA,Saves,Saves%,Gls,Ast,PK,Pkatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKWon,PKCon
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,2,Vasco da Gama,Sport Recife,90,1,0,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,3,Vasco da Gama,São Paulo,90,2,1,3,1.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,4,Ceará,Vasco da Gama,90,2,0,2,1.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,5,Vasco da Gama,Grêmio,90,4,0,4,1.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,6,Fluminense,Vasco da Gama,90,3,2,1,.333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,7,Santos,Vasco da Gama,90,5,2,3,.600,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,8,Vasco da Gama,Atlético Paranaense,90,4,0,4,1.000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+"Miguel, Fernando",1,BRA,Vasco da Gama,2020,9,Vasco da Gama,Atlético Goianiense,90,7,2,5,.714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
