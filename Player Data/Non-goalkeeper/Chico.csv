@@ -1,4 +1,5 @@
 Name,#,Nation,Team,Year,Matchday,Team 1,Team 2,Min,Gls,Ast,PK,Pkatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKWon,PKCon
+Chico,10,BRA,Atl Goianiense,2020,1,Corinthians,Atlético Goianiense,83,0,0,0,0,2,1,0,0,2,5,0,7,0,0,0,0,0
 Chico,22,BRA,Atl Goianiense,2020,2,Atlético Goianiense,Flamengo,15,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 Chico,17,BRA,Atl Goianiense,2020,4,Internacional,Atlético Goianiense,26,0,0,0,0,0,0,0,0,1,2,0,0,1,1,0,0,0
 Chico,44,BRA,Sport Recife,2020,5,Sport Recife,São Paulo,45,0,0,0,0,0,0,1,0,1,1,0,1,0,2,0,0,0
@@ -8,3 +9,16 @@ Chico,11,BRA,Atl Goianiense,2020,7,Fluminense,Atlético Goianiense,90,0,1,0,0,2,
 Chico,44,BRA,Sport Recife,2020,7,Grêmio,Sport Recife,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Chico,11,BRA,Atl Goianiense,2020,8,Atlético Goianiense,Grêmio,89,0,1,0,0,2,0,0,0,0,1,0,4,1,0,0,0,0
 Chico,11,BRA,Atl Goianiense,2020,9,Vasco da Gama,Atlético Goianiense,77,0,0,0,0,3,1,0,0,2,2,0,4,1,0,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,10,Bahia,Atlético Goianiense,71,0,0,0,0,0,0,0,0,2,1,0,6,0,0,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,11,Atlético Goianiense,Atlético Mineiro,90,0,0,0,0,0,0,0,0,1,2,0,3,0,1,0,0,0
+Chico,44,BRA,Sport Recife,2020,11,Sport Recife,Fluminense,13,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Chico,20,BRA,Atl Goianiense,2020,12,Atlético Goianiense,Botafogo (RJ),26,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+Chico,44,BRA,Sport Recife,2020,13,Bahia,Sport Recife,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,13,Fortaleza,Atlético Goianiense,75,0,0,0,0,1,0,0,0,1,1,0,3,0,0,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,14,São Paulo,Atlético Goianiense,68,0,0,0,0,2,1,0,0,0,1,0,4,0,0,0,0,0
+Chico,44,BRA,Sport Recife,2020,15,Sport Recife,Botafogo (RJ),90,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,15,Atlético Goianiense,Bragantino,65,0,0,0,0,0,0,0,0,0,3,0,4,1,0,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,16,Santos,Atlético Goianiense,87,1,0,0,0,2,1,0,0,1,4,0,3,1,0,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,17,Atlético Goianiense,Atlético Paranaense,89,0,0,0,0,0,0,0,0,2,4,0,4,2,0,0,0,0
+Chico,44,BRA,Sport Recife,2020,18,Atlético Mineiro,Sport Recife,90,0,0,0,0,0,0,0,0,1,1,0,0,2,2,0,0,0
+Chico,10,BRA,Atl Goianiense,2020,18,Atlético Goianiense,Palmeiras,90,0,0,0,0,6,1,0,0,5,4,0,7,2,0,0,0,0

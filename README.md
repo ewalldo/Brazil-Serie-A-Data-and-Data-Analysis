@@ -2,8 +2,10 @@
 Repository to hold the data for the Brazilian soccer championship "Serie A" and some data analysis on it
 
 ### Under construction ###
-Match data available: until 13th round  TODO: Fix issues with formation data  
-Player data available: 9th round  
+Match data available: until 18th round  
+TODO: Fix issues with formation data  
+TODO: Fix issues with saves%  
+Player data available: 18th round  
 
 Notes to Match Report:  
 Year     = League year  
